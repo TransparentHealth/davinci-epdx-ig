@@ -8,9 +8,9 @@ davinci-epdx-ig
 This repository is intended to capture content for the 
 Da Vinci ePayer Data Exchange (ePDx) Implementation Guide (IG).
 
-The ePDx-IG will be generated using Lantana's [Trifolia](https://trifolia.lantanagroup.com/home/loggedinindex) publishing tool:
+The ePDx-IG will be generated using Lantana's [Trifolia](https://trifolia-fhir.lantanagroup.com) publishing tool:
 
-    https://trifolia.lantanagroup.com/home/loggedinindex
+    https://trifolia-fhir.lantanagroup.com
 
 Content for the IG can be found in the content folder
 
